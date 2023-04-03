@@ -220,7 +220,7 @@ The following resources are available to you as a student:
 **4.11 | intro to github**
 
 &ensp;&thinsp;&ensp;&thinsp;readings:
-- [GitHub Basics module] (https://github.com/eng470-s23/course-info/blob/main/github-basics) from GitHub-Classroom
+- [GitHub Basics module](https://github.com/eng470-s23/course-info/blob/main/github-basics) from GitHub-Classroom
 - Learn-Static [Foundations 0: GitHub](https://github.com/learn-static/foundations-0-github)
 
 **4.13 | reverse-engineering and analyzing digital projects**

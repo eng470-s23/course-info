@@ -20,11 +20,11 @@ Please allow two full business days for a response to email or voicemail.
 
 ### office hours
 Tuesdays and Thursdays, 10:00am-11:30am
-By default, office hours are in-person in 235 PLC. 
-To request a Zoom link, please email at least 1 hour in advance of our scheduled meeting.
 
-Drop-ins are welcome, but appointments are given priority.
-Booking link: https://tinyurl.com/burkert-office-hours
+By default, office hours are in-person in 235 PLC. To request a Zoom link, please email at least 1 hour in advance of our scheduled meeting.
+
+Drop-ins are welcome, but appointments are given priority. Booking link: https://tinyurl.com/burkert-office-hours
+
 ---
 ## course description
 This course offers a supported environment for developing an original, term-length digital research project that brings together the knowledge and skills you have cultivated in the Digital Humanities minor. This capstone project is an opportunity to make a contribution to scholarly research and to develop a porfolio piece that showcases your skills as a digital maker. Whether you choose to create a digital edition, an interactive map, a dynamic timeline, a podcast, a website, a video game, a data dashboard, or something else altogether, you will spend the term brainstorming, planning, designing, prototyping, workshopping, and presenting your work in progress. Ultimately, you will foster and articulate a critical praxis that aligns your technical and design choices with your priorities and values as a maker. 
@@ -62,14 +62,14 @@ Half of your course grade will be based on full, timely completion of each weekl
 	
 - week 1: GitHub foundations tutorial
 - week 2: set up your repository
-- week 3: pitch (in project-log.md)
-- week 4: bibliography, search log, and reading plan (in project-log.md)
-- week 5: three annotated bibliography entries and research question (in project-log.md)
-- week 6: remaining annotations, environmental scan (in project-log.md)
-- week 7: data management plan with accessibility checklist (data-management.md)
-- week 8: credits, acknowledgments, license (readme.md)
-- week 9: presentation (presentation.md or presentation.ppt)
-- week 10: white paper (white-paper.md), website (config.yml)
+- week 3: pitch (in _project-log.md)
+- week 4: bibliography, search log, and reading plan (in _project-log.md)
+- week 5: three annotated bibliography entries and research question (in _project-log.md)
+- week 6: remaining annotations, environmental scan (in _project-log.md)
+- week 7: data management plan with accessibility checklist (_data-management.md)
+- week 8: credits, acknowledgments, license (_readme.md)
+- week 9: presentation (_presentation.md or _presentation.ppt)
+- week 10: white paper (_white-paper.md), website (_config.yml)
 	
 ### final portfolio (50 points)
 The other half of your course grade will consist of a holistic assessment of your final portfolio, which will be a github pages static site launched from your repository. The static site may include within it or link out to your prototype. The quality of the portfolio as a whole is more important than how your digital project prototype itself turns out. 
@@ -337,117 +337,3 @@ final project portfolio:
 - github repo
 - associated static site
 - prototype
-	
-
-# appendix 1 - assignment prompts
-
-## major project
-
-### overview
-
-Your major objective in this course is to develop an original digital research project that represents the culmination of skills and knowledge you have developed throughout the DH minor. It may take any number of new media forms: a blog, a podcast, an interactive map or timeline, a digital exhibit, a digital edition of a book or other primary text, a “scrollytelling” or multimedia essay, an app or bot, an AR or VR experience, a video game, a data dashboard, etc. Whatever form it takes, your project should be guided by a research question that drives you to find, assess, and synthesize sources; to generate new knowledge about historical, cultural, and/or technological phenomena; and to make interpretive claims.
-
-### learning outcomes 
-
-- Generate an original research question and conduct independent scholarly research that contributes new knowledge to one or more humanities fields
-- Conceptualize and execute a digital project that represents the research process and/or findings
-- Express critical insights through design choices
-- Learn and follow best practices for project management in digital humanities
-- Develop and publish a static website using Github Pages that documents, and reflects on your process and learning (regardless of the outcomes of the digital project itself) 
-
-### project options
-
-Choose the path that best fits your academic and career goals, your working style, and your access needs:
-
-1. An independent project of your own devising, based on existing research interests, questions, and/or materials you have already begun generating. 
-
-2. A project related to the history of environmental racism and social justice movements in Eugene, drawing and building on the [repository](https://learn-static.github.io/eng-470/) and [digital storytelling](https://blogs.uoregon.edu/english470s22/) projects begun by last year's English 470 students
-
-### scope and completeness (TK)
-
-You may conceptualize a project that is too large to complete in a 10-week term, or you may have one in mind that is just the right size. Either way, you should submit a version of your project that is coherent, self-contained, and functional. If it is a prototype of a longer-term project, it should still give the user a clear understanding of how the envisioned final product will look, feel, and work. This is what is sometimes known in software development as a **vertical slice**. 
-
-For example:
-- For a podcast scheduled for weekly release, this might be a single long episode or an arc of shorter episodes that hang together. The published episode(s) should be fully researched, scripted, recorded, edited, and embedded in a website or uploaded to an aggregator. 
-- For a digital exhibit, interactive timeline, or storymap, you should choose a representative selection of items that tell a coherent story. Each item should be fully produced with metadata, multimedia elements, formatting, accessibility features, etc. 
-- For a text mining, network analysis, or data visualization project, you should prototype a complete user experience built on a sample dataset.
-- For a digital edition or audiobook, you should publish something that a user can read and interact with and that offers functionality beyond what is currently available online, even if it doesn't have all the features or paratexts you hope to eventually add. 
-
-Your documentation can explain how your vertical slice relates to the anticipated whole and outline your future plans for feature development, data collection, community-building, etc. 
-
-### assessment 
-
-Your project will be successful if it...
-
-- advances a significant and compelling research question;
-- engages constructively and critically with up-to-date, peer-reviewed humanities scholarship;		
-- makes an informed contribution to knowledge in the field (for example, advances an original argument, proposes a novel research finding, or makes scholarship accessible to new audiences);
-- uses technology ethically and effectively to advance scholarly research and/or communication; 
-- demonstrates iteration, revision, and improvement across the term;  
-- is carefully documented to ensure sustainability and to preserve context; and
-- is produced with the high level of care and polish that is appropriate to a capstone portfolio piece. 
-
-## pitch
-
-Answer the following questions, drawing on Miriam Posner's terminology in the "How Did They Make This?" video.
-
-- What is your research topic? 
-- What is your research question? 
-- What kinds of **materials** do you plan to work with?
-- How do you plan to **process** them? 
-- How do you plan to **present** them? In other words, what form(s) will your final submission take? 
-- What communities, scholarly or otherwise, are you in conversation with? Who wants or needs to engage with your work?
-- What existing knowledge or skills do you bring to this project? 
-- What might you need to learn in order to do it?  
-
-## bibliography
-
-### goals
-- Gather, assess, and begin synthesizing sources for your project
-- Identify gaps in your research and areas for further inquiry
-
-### instructions
-Your annotated bibliography should include at least seven (7) sources for your project: 
-- at least one primary (literary or archival) source or dataset: an object you are studying or examining
-- at least four peer-reviewed scholarly sources framing and informing your thinking: articles, chapters, or books published by university or academic presses, or excerpts from academic reference sources (note that being deposited in Scholars' Bank does *not* mean a source is peer reviewed.) 
-- the other 2+ sources may be primary, scholarly, popular, journalistic, governmental/policy documents, datasets, etc.
-- a full citation in Chicago, MLA, APA, or AP style (or another style appropriate to your discipline, with approval)
-- a 4-5 sentence annotation summarizing the main ideas and content of the piece and discussing how you plan to use it for your project. 
-
-## environmental scan
-
-The environmental scan situates your project within the existing scholarly research and articulates its contribution.
-
-- Describe what you will do and why. What is unique about your project and what you will be contributing to your scholarly community? What problem will be resolved, what question will be answered, or what opportunity will be created through your project?
-
-- What tools and methods will you use, and why are those the best technologies for your purposes?
-
-- What products or services will result? Deliverables may include a website, blog post, book, presentation, virtual exhibit, code, digitized materials, or service. Consider deliverables at multiple levels. For example, a website hosting a collection of digitized historical letters comprises two deliverables: the digitized letters and the website itself.
-
-- What constitutes success for the project? For each deliverable, document the conditions of its success. Consider not only the details of the product, but also your timeline and resource constraints. Be careful to avoid scope creep (i.e., inadvertently allowing the scope to expand beyond that of your proposed project).
-
-- For whom is your project intended: academics, members of the public, your institution, etc.? Who is invested in the final products? How can you reach that audience and meet the needs of interested parties and stakeholders?
-
-- What resources do you need to reach your goals? Consider equipment, technologies, programs, web hosting, data storage, expertise, and time. Where will you get the resources you need? Identify specific entities, offices, subscriptions, spaces, etc. available through UO or the community.
-
-
-## presentation
-
-
-## documentation
-
-### readme.md 
-- acknowledgments 
-- accessibility checklist
-
-### license.md
-
-### project-log.md 
-- pitch
-- reading schedule
-- timeline: map out how long the different steps of your project will take. Schedule milestones and internal as well as external deadlines, and identify potential dependencies, bottlenecks, or resource constraints. 
-
-### data-management.md
-Explain in detail how you will collect, store, name, and organize your project files. How will you protect your data and source files from inadvertent loss, corruption, or intrusion? What file formats, file naming standards, and version control practices will you use to maintain the integrity of your project? If you are using cloud storage, are you maintaining local copies, and where? If you are using any proprietary software, what is your plan for ensuring you can get your data back out? When and how will you back up your work, and whose responsibility will that be? What is the copyright and licensing status of your materials, and who is managing any needed permissions? Where and how will you maintain and publish documentation for your project?
-
-## final portfolio

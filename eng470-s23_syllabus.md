@@ -12,8 +12,8 @@ Tuesdays and Thursdays, 2:00-3:20pm
 Dr. Mattie Burkert (you can call me Dr. Burkert or Professor Burkert)
 - Pronouns: she/they
 - Office: 235 PLC
-- Email: mburkert@uoregon.edu
-- Voicemail: (541) 346-0272
+- [Email](mailto:mburkert@uoregon.edu)
+- Voicemail: x60272
 
 Please allow two full business days for a response to email or voicemail.
 

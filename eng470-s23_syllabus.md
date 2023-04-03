@@ -198,6 +198,7 @@ The following resources are available to you as a student:
 ## schedule
 
 ### week 1
+
 **4.4 | welcome**
 - icebreaker: you as a maker
 - demo of past eng470 projects 
@@ -205,134 +206,185 @@ The following resources are available to you as a student:
 - intro to time-blocking and backwards planning
 
 **4.6 | intro to minimal computing, static site development, and markdown**
-readings:
+
+&ensp;&thinsp;&ensp;&thinsp;readings:
 - Dennis Tenen and Grant Wythoff, ["Sustainable Authorship in Plain Text using Pandoc and Markdown"]( https://doi.org/10.46430/phen0041) - read Objectives, Philosophy, Principles, Software Requirements, Markdown Basics
 - Alex Gil, ["The User, The Learner, and the Machines We Make"](https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/)
 
 **4.7 | milestone assignment** 
-[Foundations 2: Markdown](https://github.com/learn-static/foundations-2-markdown) 
 
+&ensp;&thinsp;&ensp;&thinsp;[Foundations 2: Markdown](https://github.com/learn-static/foundations-2-markdown) 
+
+---
 ### week 2
 **4.11 | intro to github**
-readings:
+
+&ensp;&thinsp;&ensp;&thinsp;readings:
 - intro to Git and GitHub lesson (on our class GitHub) 
 - Learn-Static [Foundations 0: GitHub](https://github.com/learn-static/foundations-0-github)
 
 **4.13 | reverse-engineering and analyzing digital projects**
-readings:
+
+&ensp;&thinsp;&ensp;&thinsp;readings:
 - Miriam Posner, "How Did They Make That?": [read the blog post](https://miriamposner.com/blog/how-did-they-make-that/) and/or [watch the video](https://miriamposner.com/blog/how-did-they-make-that/)
 - Hannah Trammell, ["Review: The Retro Mobile Gaming Database"](https://doi.org/10.21428/3e88f64f.84da360f)
 - Bethany Gareis, ["Review: Eileen Southern and The Music of Black Americans"](https://doi.org/10.21428/3e88f64f.84da360f)
 - Elizabeth Keohane-Burbridge, ["Review: Dig"](https://doi.org/10.21428/3e88f64f.84da360f)
 	
 **4.14 | extra credit opportunity**
-[Data | Media | Digital Symposium](https://blogs.uoregon.edu/newmediaculture/2023/03/24/dmd2023schedule/) at Knight Library DREAM Lab
+
+&ensp;&thinsp;&ensp;&thinsp;[Data | Media | Digital Symposium](https://blogs.uoregon.edu/newmediaculture/2023/03/24/dmd2023schedule/) at Knight Library DREAM Lab
 	
 **4.14 | milestone assignment**
-create your project repository
 
+&ensp;&thinsp;&ensp;&thinsp;create your project repository
+
+---
 ### week 3 
+
 **4.18 | shark tank / mock review panel**
-readings: sample proposals from NEH 
+
+&ensp;&thinsp;&ensp;&thinsp;readings: sample proposals from NEH 
 - [Freedom's Movement](https://www.neh.gov/sites/default/files/inline-files/Georgia-Freedoms-Movement-Level-I.pdf) 
 - [Redesigning Historypin](https://www.neh.gov/sites/default/files/inline-files/Shift-Design-Redesigning-Historypin-Level-I.pdf)
 			
 **4.20 | pitch brainstorming session; intro to library database research**		
-readings:
+
+&ensp;&thinsp;&ensp;&thinsp;readings:
 - [Getting Started with Library Research](https://researchguides.uoregon.edu/getting-started)	
 - [Finding Primary Sources](https://researchguides.uoregon.edu/primary_sources)
 - [Popular vs. Scholarly Sources](https://researchguides.uoregon.edu/popular-scholarly)
 - [Using Google Scholar & UO Libraries' Resources](https://researchguides.uoregon.edu/googlescholar)
 	
 **4.21 | milestone assignment**
-pitch (in _project-log.md)
 
+&ensp;&thinsp;&ensp;&thinsp;pitch (in _project-log.md)
+
+---
 ### week 4
+
 **4.25 | entering the scholarly conversation**
-readings:
+
+&ensp;&thinsp;&ensp;&thinsp;readings:
 - [Literature Reviews: Get & Stay Organized](https://academicguides.waldenu.edu/library/doctoral/literaturereview/organization)
 - [Explore and Refine Your Topic: Log Your Searches](https://libguides.eur.nl/informationskillsexplore/logsearch)
 - Diana Kwon, ["The Rise of Citational Justice"](https://alliance-uoregon.primo.exlibrisgroup.com/permalink/01ALLIANCE_UO/1j98102/cdi_proquest_journals_2643282780)
 			
 **4.27 | meet in Knight Library Browsing Room for a talk by Catherine Malabou**
-["Morphing Intelligence and the Anarchist Potential of AI and the Internet"](https://blogs.uoregon.edu/newmediaculture/2023/03/24/malabouapril2023uotalk/) 
+&ensp;&thinsp;&ensp;&thinsp;["Morphing Intelligence and the Anarchist Potential of AI and the Internet"](https://blogs.uoregon.edu/newmediaculture/2023/03/24/malabouapril2023uotalk/) 
 
 **4.28 | milestone assignment**
-bibliography, search log, and reading plan (in project-log.md)
 
+&ensp;&thinsp;&ensp;&thinsp;bibliography, search log, and reading plan (in _project-log.md)
+
+---
 ### week 5
+
 **5.2 | discussion of Malabou talk, AI, and citational ethics**
-readings:
+
+&ensp;&thinsp;&ensp;&thinsp;readings:
 - David M. Berry, ["AI, Ethics, and Digital Humanities"](http://libproxy.uoregon.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=3427980&site=ehost-live&scope=site&ebv=EB&ppid=pp_445)
 - UO Teaching Engagement Program, ["Teaching and AI Systems"](https://teaching.uoregon.edu/teaching-and-ai-systems)
 	
 **5.4 | annotated bibliographies**
-reading: Archives 4 Black Lives Philadelphia, ["Anti-Racist Archival Description Annotated Bibliography"](https://github.com/a4blip/A4BLiP/blob/master/Resources/6_AnnotatedBib.md)
+
+&ensp;&thinsp;&ensp;&thinsp;reading: 
+- Archives 4 Black Lives Philadelphia, ["Anti-Racist Archival Description Annotated Bibliography"](https://github.com/a4blip/A4BLiP/blob/master/Resources/6_AnnotatedBib.md)
 	
 **5.5 | milestone assignment**
-research question and annotations of three (3) peer-reviewed sources (in _project-log.md)
 
+&ensp;&thinsp;&ensp;&thinsp;research question and annotations of three (3) peer-reviewed sources (in _project-log.md)
+
+---
 ### week 6
+
 **5.9 | refining your research question**
-reading: [Datasitters’ Club: Voyant’s Big Day ](https://datasittersclub.github.io/site/dsc6.html)
+
+&ensp;&thinsp;&ensp;&thinsp;reading: 
+- [Datasitters’ Club: Voyant’s Big Day ](https://datasittersclub.github.io/site/dsc6.html)
 	
 **5.11 | They Say / I Say: Engaging with your sources**
-readings: three (3) more of the peer-reviewed sources on your bibliography 
+
+&ensp;&thinsp;&ensp;&thinsp;readings: 
+- three (3) more of the peer-reviewed sources on your bibliography 
 		
 **5.12 | milestone assignment**
-full annotated bibliography (7 sources) and environmental scan (in _project-log.md)
 
+&ensp;&thinsp;&ensp;&thinsp;full annotated bibliography (7 sources) and environmental scan (in _project-log.md)
+
+---
 ### week 7
+
 **5.16 | digital project sustainability and data management**
-readings:
+
+&ensp;&thinsp;&ensp;&thinsp;readings:
 - Simon Brew, ["How One Line of Text Nearly Killed Toy Story 2"](https://web.archive.org/web/20150609223738/https://www.mentalfloss.com/article/64795/how-one-line-text-nearly-killed-toy-story-2)
 - Mitchell Clark, [“New Research Shows How Many Important Links on the Web Get Lost to Time”](https://www.theverge.com/2021/5/21/22447690/link-rot-research-new-york-times-domain-hijacking) 
 - UO Libraries research guide:  [Create a Data Management Plan](https://researchguides.uoregon.edu/data-management) and [Best Practices](https://researchguides.uoregon.edu/data-management/services)
 	
 **5.18 | digital accessibility**
-readings:
+
+&ensp;&thinsp;&ensp;&thinsp;readings:
 - UO Online: [Accessibility Primer](https://digitalaccessibility.uoregon.edu/primer), ["What is Digital Accessibility"](https://digitalaccessibility.uoregon.edu/about/whatisda), and [Basic Accessibility Testing](https://digitalaccessibility.uoregon.edu/assessment/basictesting) 
 - Sara Hendren, [“All Technology Is Assistive"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/b22b7f2d-f386-4ec5-bcee-30591c0078ba)
 	
 **5.19 | milestone assignment**
-data management plan with accessiblity checklist
-	
+
+&ensp;&thinsp;&ensp;&thinsp;data management plan with accessiblity checklist
+
+---
 ### week 8
+
 **5.23 | land, water, labor: acknowledging our debts**
-readings:
+
+&ensp;&thinsp;&ensp;&thinsp;readings:
 - Lisa Nakamura, ["Indigenous Circuits"](https://alliance-uoregon.primo.exlibrisgroup.com/permalink/01ALLIANCE_UO/1j98102/cdi_proquest_journals_1640729508)
 - Data is Plural Podcast, ["The London Stage"](https://podcast.data-is-plural.com/2159594/12535551)
 - "Editorial Statements" for [*The Female American* digital edition](https://anthologydev.lib.virginia.edu/work/Winkfield/winkfield-female-american)
 - Eugenia Zurowski, ["Academic Land Acknowledgments for Settler Scholars"](https://asecsgradcaucus.wordpress.com/2020/02/25/academic-land-acknowledgment-for-settler-scholars-a-guest-post-by-dr-eugenia-zuroski/)
 	
 **5.25 | open scholarship**
-readings: ["Doing Digital Projects in the Open"](https://researchguides.uoregon.edu/doingdigitalprojectsintheopen/workshop2) and ["Creative Commons Licensing and Fair Use for Digital Projects"](https://researchguides.uoregon.edu/licensingdigitalprojects)
+
+&ensp;&thinsp;&ensp;&thinsp;readings: 
+- ["Doing Digital Projects in the Open"](https://researchguides.uoregon.edu/doingdigitalprojectsintheopen/workshop2) 
+- ["Creative Commons Licensing and Fair Use for Digital Projects"](https://researchguides.uoregon.edu/licensingdigitalprojects)
 	
 **5.26 | milestone assignment**
-credits and acknowledgments (in your README file); license.md file
-	
-### week 9
-**5.30 | presentation workshop - bring a draft of your slides to class**
-reading: Jason S. Farr and Travis Chi Wing Lau, ["Towards a More Accessible Conference Presentation"](https://profession.mla.org/toward-a-more-accessible-conference-presentation/)
 
+&ensp;&thinsp;&ensp;&thinsp;credits and acknowledgments (in your README file); license.md file
+
+---
+### week 9
+
+**5.30 | presentation workshop - bring a draft of your slides to class**
+
+&ensp;&thinsp;&ensp;&thinsp;reading: 
+- Jason S. Farr and Travis Chi Wing Lau, ["Towards a More Accessible Conference Presentation"](https://profession.mla.org/toward-a-more-accessible-conference-presentation/)
 		
 **6.1 | symposium (in the DREAM lab)**	
-follow-up task:  complete feedback survey for each presenter during or shortly after the symposium 
+
+&ensp;&thinsp;&ensp;&thinsp;follow-up task:  complete feedback survey for each presenter during or shortly after the symposium 
 	
 **6.2 | milestone assignment**
-_presentation.md or _presentation.ppt
 
+&ensp;&thinsp;&ensp;&thinsp;presentation visual aid (in _presentation.md or _presentation.ppt)
+
+---
 ### week 10
 **6.6 | configuring and publishing your github pages site**
 	
 **6.8 | conclusions**
 	
 **6.9 | milestone assignment**
-_white-paper.md and _config.yml
 
+&ensp;&thinsp;&ensp;&thinsp;white paper and website launch (_white-paper.md and _config.yml)
+
+---
 ### week 11
+
 **6.12 | due at 12:30pm (our scheduled exam period)**
-final project portfolio:
+
+&ensp;&thinsp;&ensp;&thinsp;final project portfolio:
 - github repo
 - associated static site
 - prototype

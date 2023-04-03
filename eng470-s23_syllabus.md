@@ -59,7 +59,7 @@ In most cases, the assignment prompt and instructions are built into the templat
 ### weekly milestones (50 points)
 Half of your course grade will be based on full, timely completion of each weekly milestone (5 points per week). Milestones are due at the end of the week (Friday at 11:59 p.m.) unless otherwise indicated. 
 	
-- week 1: GitHub foundations tutorial
+- week 1: Markdown foundations tutorial
 - week 2: set up your repository
 - week 3: pitch (in _project-log.md)
 - week 4: bibliography, search log, and reading plan (in _project-log.md)
@@ -220,7 +220,7 @@ The following resources are available to you as a student:
 **4.11 | intro to github**
 
 &ensp;&thinsp;&ensp;&thinsp;readings:
-- intro to Git and GitHub lesson (on our class GitHub) 
+- [GitHub Basics module] (https://github.com/eng470-s23/course-info/blob/main/github-basics) from GitHub-Classroom
 - Learn-Static [Foundations 0: GitHub](https://github.com/learn-static/foundations-0-github)
 
 **4.13 | reverse-engineering and analyzing digital projects**

@@ -1,8 +1,7 @@
 # eng470/570
-spring 2023 
-crn: 32490 / 32498 
-github.com/orgs/eng470-s23/repositories
----
+spring 2023  | crn: 32490 / 32498  
+[github.com/orgs/eng470-s23/repositories](https://github.com/orgs/eng470-s23/repositories)
+
 ## essential info
 
 ### class meetings

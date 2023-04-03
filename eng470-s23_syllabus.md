@@ -2,11 +2,21 @@
 spring 2023  | crn: 32490 / 32498  
 [github.com/orgs/eng470-s23/repositories](https://github.com/orgs/eng470-s23/repositories)
 
+Jump to...
+
+[class meetings](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#class-meetings) | [instructor info](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#instructor-info) | [office hours](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#office-hours)
+
+[course description](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#course-description) | [learning goals](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#learning-goals) | [required materials](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#required-materials) | [assignments](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#assignments) | [grading](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#grading)
+
+[course policies](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#course-policies) | [technology policies](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#technology-policies) | [departmental and university policies](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#departmental-and-university-policies)
+
+[schedule](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#schedule): [week 1](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#week-1) | [week 2](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#week-2) | [week 3](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#week-3) | [week 4](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#week-4) | [week 5](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#week-5) | [week 6](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#week-6) | [week 7](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#week-7) | [week 8](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#week-8) | [week 9](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#week-9) | [week 10](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#week-10) | [week 11](https://github.com/eng470-s23/course-info/blob/main/eng470-s23_syllabus.md#week-11)
+
+---
 ## essential info
 
 ### class meetings
-Tuesdays and Thursdays, 2:00-3:20pm
-117 Fenton ([map of FEN](https://map.uoregon.edu/e1363ed3c))
+Tuesdays and Thursdays, 2:00-3:20pm in 117 Fenton ([map of FEN](https://map.uoregon.edu/e1363ed3c))
 
 ### instructor info 
 Dr. Mattie Burkert (you can call me Dr. Burkert or Professor Burkert)

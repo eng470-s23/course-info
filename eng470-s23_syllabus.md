@@ -103,13 +103,11 @@ Criteria vary by assignment and are located on the assignment prompt.
 ## course policies
 
 ### attendance 
-Regular attendance correlates strongly with higher grades and a better experience in this course. Your presence in class matters for your own learning as well as for the contributions you can make to the learning of others. Attendance is taken at every class meeting using a sign-in sheet passed around within the first five minutes. If you arrive after the sign-in sheet has been passed around, you are responsible for checking in with Prof. B after class to make note of your attendance. Late arrivals are disruptive, and routine or excessive tardiness will be documented as absence.
+Regular attendance correlates strongly with higher grades and a better experience in this course. Your presence in class matters for your own learning as well as for the contributions you can make to the learning of others. Attendance is taken at every class meeting using a sign-in sheet passed around within the first five minutes. If you arrive after the sign-in sheet has been passed around, you are responsible for checking in with Prof. B after class to make note of your attendance. Late arrivals are disruptive, and routine or excessive tardiness will be documented as absence. If you have to miss class, you are expected to catch up what you missed by reviewing any materials posted to Canvas and connecting with other students in the class to answer any lingering questions you may have.
 	
 At a bare minimum, you must attend 60% of the class meetings (12 of 20) to pass the class, including the symposium on June 1. Beyond that minimum threshold, attendance is assessed holistically as part of your portfolio grade. Specifically, regular attendance and a consistently high level of engagement will weigh in favor of rounding up if the portfolio grade is borderline. 
 		
-In compliance with the Provost’s reason-neutral attendance policy, no distinction is made between excused and inexcused absences; in general, there is no need to document the reason for your absence. Please do not send Prof. B. doctors’ notes or offer usolicited personal information. Absences associated with religious observance, official university business, or documented AEC accommodations are exempt from consideration as part of your Ongoing Engagement grade provided that these absences meet the narrow and specific definitions in the student code and that you notify Prof. B in writing and with appropriate official documentation within the first two weeks of the term.
-	
-If you have to miss class, you are expected to catch up what you missed by reading the shared notes, reviewing any slides or handouts posted to Canvas, and connecting with other students in the class to answer any lingering questions you may have.
+In compliance with the Provost’s reason-neutral attendance policy, no distinction is made between excused and inexcused absences; in general, there is no need to document the reason for your absence. Please do not send Prof. B. doctors’ notes or offer unsolicited personal information. Absences associated with religious observance, official university business, or documented AEC accommodations are exempt from consideration as part of your grade provided that these absences meet the narrow and specific definitions in the student code and that you notify Prof. B in writing and with appropriate official documentation within the first two weeks of the term.
 	
 ### late work
 Each student has a bank of 4 “late days” (calendar days) to spend on assignments without penalty. You can turn one assignment in four days late, four assignments in one day late each, or somewhere in between. Note that the revised essay and memo are two separate assignments. These penalty-free late days will be automatically applied to late assignments in the order of their due date. 
@@ -127,9 +125,7 @@ This class meets for 3 hours per week, and you should plan to spend another 2 ho
 - weeks 4-6: 6 hours per week (18 hours)
 - weeks 7-10: 10 hours per week (40 hours)
 	
-If you don't have 15 hours per week to spend on this class in weeks 7-10, you should dedicate time early in the term getting a jump on the shared readings that come later. 
-
-You are **strongly** encouraged to log your time spent on this class to ensure that you are on track. You cannot do a 70-hour project in the last few weeks of the term!! 
+If you don't have 15 hours per week to spend on this class in weeks 7-10, you should dedicate time early in the term getting a jump on the shared readings that come later. You are **strongly** encouraged to log your time spent on this class to ensure that you are on track. You cannot do a 70-hour project in the last few weeks of the term!! 
 	
 ### instructor workload
 As research faculty, 40% of Professor Burkert's time is reserved for teaching, to be split across two courses enrolling 60-80 students total. In a 50-hour work week, that amounts to 20 hours. Half of those hours are spent in class and in office hours, leaving 10 hours a week for reviewing the assigned readings, preparing lessons, grading and writing feedback, mentoring and supervising TAs, responding to student emails, and keeping Canvas up-to-date. With this in mind, please use office hours whenever possible for one-on-one meetings; reach out to peers for information about missed classes (and act as a resource to others when they have to miss class); and review the syllabus and assignment prompts carefully for answers to basic logistical questions before sending an email.
@@ -138,7 +134,7 @@ As research faculty, 40% of Professor Burkert's time is reserved for teaching, t
 ## technology policies
 
 ### electronic devices in the classroom
-You may use your phone, tablet, or computer in class to access course readings and materials, take notes, or otherwise support your learning. You may not text message, browse the web, or do work for other courses on your devices during our class sessions. If you are found to be doing so, Professor Burkert will stop class to ask you to put your device away for the remainder of the class session. A repeat offense on a subsequent occasion will result in loss of device use privileges in class for the remainder of the term. If you find the temptation towards distraction overwhelming, consider printing out or buying/borrowing hard copies of the readings, using pen and paper to take notes, and keeping your devices turned off and put away during class.
+You may use your phone, tablet, or computer in class to access course readings and materials, take notes, or otherwise support your learning. You may not text message, browse the web, or do work for other courses on your devices during our class sessions. If you find the temptation towards distraction overwhelming, consider printing out or buying/borrowing hard copies of the readings, using pen and paper to take notes, and keeping your devices turned off and put away whenever they are not actively necessary for our shared work.
 
 ### privacy
 It is your ethical responsibility to respect the legally protected privacy of your classmates and what they share in class and online. It is prohibited to repost, republish, or quote from our class discussions on the web or social media, even if names/identities are anonymized, without the express permission of the instructor and your peers. No personally identifiable information, such as street addresses, phone numbers, or email addresses, should be posted on our course sites or shared note-taking document, nor should any discussion of grades. Any such details arising in the course of class discussion should be redacted from any notes, transcriptions, recordings, etc. to protect against unauthorized access.
@@ -152,11 +148,7 @@ You may record or transcribe our class discussions, provided that you
 To be clear, you may NOT use freemium software like Otter.AI, Descript, ChatGPT, Bard, etc. to process class recordings, as doing so essentially constitutes selling your classmates’ federally protected, private educational records in exchange for access to a product.
 
 ### intellectual property
-You may reuse, republish, or remix materials created by the professor under the appropriate license provided that you adhere to the indicated terms. For example, this syllabus is published under a Creative Commons Attribution-NonCommercial license, meaning you may reuse it in part or in whole provided that you credit the author (Dr. Mattie Burkert) and that you do not sell or make money from the material.
-	
-You may not reuse, republish, or remix materials produced by other students in this class without their express permission.
-
-Under no circumstances should you sell or give anything produced in or related to this class to third-party companies like Course Hero, Shmoop, etc.
+You may reuse, republish, or remix materials created by the professor under the appropriate license provided that you adhere to the indicated terms. For example, this syllabus is published under a Creative Commons Attribution-NonCommercial license, meaning you may reuse it in part or in whole provided that you credit the author (Dr. Mattie Burkert) and that you do not sell or make money from the material. You may not reuse, republish, or remix materials produced by other students in this class without their express permission. Under no circumstances should you sell or give anything produced in or related to this class to third-party companies like Course Hero, Shmoop, etc.
 
 ### use of artifical intelligence (AI)
 Learning to use artificial intelligence systems (such as ChatGPT and Bard) and to recognize their pluses and minuses are important emerging skills. In the context of this course, however, many potential uses of AI would hinder your achievement of the course learning goals. Therefore, the use of AI systems is allowed in this course only with explicit permission. If permission is given, you will be required to document your use according to guidelines that will be provided.
@@ -228,7 +220,7 @@ The following resources are available to you as a student:
 
 ---
 ### week 2
-**4.11 | intro to github**
+**4.11 | intro to github & conversation with Lauryn Cole**
 
 &ensp;&thinsp;&ensp;&thinsp;readings:
 - [GitHub Basics module](https://github.com/eng470-s23/course-info/blob/main/github-basics) from GitHub-Classroom
@@ -248,7 +240,7 @@ The following resources are available to you as a student:
 	
 **4.14 | milestone assignment**
 
-&ensp;&thinsp;&ensp;&thinsp;create your project repository
+&ensp;&thinsp;&ensp;&thinsp;create your project repository & sign FERPA waiver
 
 ---
 ### week 3 

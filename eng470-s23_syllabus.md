@@ -71,7 +71,7 @@ In most cases, the assignment prompt and instructions are built into the templat
 Half of your course grade will be based on full, timely completion of each weekly milestone (5 points per week). Milestones are due at the end of the week (Friday at 11:59 p.m.) unless otherwise indicated. 
 	
 - week 1: Markdown foundations tutorial
-- week 2: set up your repository
+- week 2: set up your repository & sign FERPA waiver
 - week 3: pitch (in _project-log.md)
 - week 4: bibliography, search log, and reading plan (in _project-log.md)
 - week 5: three annotated bibliography entries and research question (in _project-log.md)

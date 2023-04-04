@@ -56,13 +56,14 @@ You will need access to a laptop computer that you can bring with you to all of 
 
 ### major project
 Your goal in this class is to conceptualize and prototype a digital project driven by a compelling research question. To scaffold and document the process, you will create a github repository that includes documentation of all your research and decisions over the course of the term. To get started, you'll clone a provided example repo that includes the following templates: 
-_readme.md 
+_readme.md
 _license.md
 _project-log.md 
 _data-management.md
 _presentation.md
 _white-paper.md
 _config.yml
+_index.md
 	
 In most cases, the assignment prompt and instructions are built into the template file, and you will comment out or delete those instructions as you replace the provided text with your own work.
 	
@@ -78,7 +79,7 @@ Half of your course grade will be based on full, timely completion of each weekl
 - week 7: data management plan with accessibility checklist (_data-management.md)
 - week 8: credits, acknowledgments, license (_readme.md)
 - week 9: presentation (_presentation.md or _presentation.ppt)
-- week 10: white paper (_white-paper.md), website (_config.yml)
+- week 10: white paper (_white-paper.md), website (_config.yml, _index.md)
 	
 ### final portfolio (50 points)
 The other half of your course grade will consist of a holistic assessment of your final portfolio, which will be a github pages static site launched from your repository. The static site may include within it or link out to your prototype. The quality of the portfolio as a whole is more important than how your digital project prototype itself turns out. 
@@ -387,7 +388,7 @@ The following resources are available to you as a student:
 	
 **6.9 | milestone assignment**
 
-&ensp;&thinsp;&ensp;&thinsp;white paper and website launch (_white-paper.md and _config.yml)
+&ensp;&thinsp;&ensp;&thinsp;white paper and website launch (_white-paper.md, _index.md and _config.yml)
 
 ---
 ### week 11

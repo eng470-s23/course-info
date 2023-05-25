@@ -10,7 +10,7 @@
 
 ## Presenters
 - Chase Rogers, "Exploring Fictional Masculinity: Representations of Male Characters in Coming-of-Age Novels"
-- Zachary Whitley, "How to Explore Video Games through Emulators: A Proposal for Digital Game Study"
+- Zach Whitley, "How to Explore Video Games through Emulators: A Proposal for Digital Game Study"
 - DJ Wooley, "The Effects of Redlining on the Black Community in Portland"
 - Colton Lewis, "Through the Lens: Aerial Photography and the Evolution of Eugene Wetlands" 
 - Jamie O'Connell, "The Impact of Beyond Toxics on Environmental Justice in Eugene" 

@@ -1,6 +1,7 @@
 # Digital Humanities Capstone Research Symposium
 
 ![](https://github.com/eng470-s23/course-info/blob/main/images/meeks_dh-network-graph.jpeg)
+“Comprehending the Digital Humanities” by Elijah Meeks is licensed under CC Attribution 4.0 License.
 
 Date: Thursday, June 1, 2023
 Time: 2:00pm - 3:30pm
